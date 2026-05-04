@@ -3,12 +3,6 @@
   <h3>🚀 Aspiring Cybersecurity Engineer | 💻 Python & Java Developer | 🧠 AI & Digital Forensics</h3>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashuutosh&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashutosh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashuutosh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🧑‍💻 About Me
 
