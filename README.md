@@ -21,7 +21,7 @@
 
 * 💻 **Languages:** Python, Java        
 * 🧠 **Domains:** Cybersecurity, Digital Forensics, AI/ML, Object-Oriented Programming        
-* 🏆 **Certifications:** CS50 Introduction to Artificial Intelligence with Python (HarvardX)        
+* 🏆 **Certifications:** Forage Cybersecurity Job Anaylst Simulation   
 * 🔧 **Tools & Dev:** Git, GitHub, Render (Deployment)    
 
 ---
