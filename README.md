@@ -21,7 +21,7 @@
 
 * 💻 **Languages:** Python, Java        
 * 🧠 **Domains:** Cybersecurity, Digital Forensics, AI/ML, Object-Oriented Programming        
-* 🏆 **Certifications:** Forage Cybersecurity Job Anaylst Simulation   
+* 🏆 **Certifications:** Forage Cybersecurity Job Analyst Simulation   
 * 🔧 **Tools & Dev:** Git, GitHub, Render (Deployment)    
 
 ---
