@@ -13,7 +13,7 @@
 - 💬 **Ask me about** Python, Java, password security assessments, or my experience with the HarvardX CS50 AI course.
 - 📫 **How to reach me:** giveurbestnow@gmail.com | https://www.linkedin.com/in/ashutosh-pratap-singh-4a1566271/
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** When I'm not debugging AI models, you'll probably find me organizing campus cricket tournaments or diving into complex math and linear algebra problems! 🏏🔢
+- ⚡ **Fun fact:** When I'm not debugging AI models, you'll probably find me participating in campus cricket tournaments or diving into complex math and linear algebra problems! 🏏🔢
 
 ---
 
