@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+TELEMETRY:+CLOUD,+BACKEND+%26+TECH" alt="Telemetry" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+CLOUD,+BACKEND+%26+TECH" alt="Telemetry" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/ARCore-FF4F8B?style=for-the-badge&logo=arcore&logoColor=white" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+TELEMETRY:+AI+%26+WORKFLOW" alt="Telemetry" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+AI+%26+WORKFLOW" alt="Telemetry" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
