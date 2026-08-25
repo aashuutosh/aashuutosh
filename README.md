@@ -35,6 +35,47 @@
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aashuutosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+## 🔗 > TECHNICAL ARSENAL
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+TELEMETRY:+CORE+LANGUAGES+%26+FRAMEWORKS" alt="Telemetry" />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+TELEMETRY:+CLOUD,+BACKEND+%26+TECH" alt="Telemetry" />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARCore-FF4F8B?style=for-the-badge&logo=arcore&logoColor=white" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+TELEMETRY:+AI+%26+WORKFLOW" alt="Telemetry" />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_AI_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<br>
+
+## 📊 > ACTIVITY GRID
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-Git-1216&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Atharv's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-Git-1216&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Git-1216&layout=compact&theme=radical&hide_border=true" width="350" alt="Top Languages" />
+</p>
+
+<br>v>
