@@ -71,7 +71,7 @@
 ## 📊 > ACTIVITY GRID
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashuutosh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Atharv's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aashuutosh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Ashutosh's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashuutosh&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 <p align="left">
