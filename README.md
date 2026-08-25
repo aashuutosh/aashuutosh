@@ -35,7 +35,7 @@
 
 <br>
 
-## 🔗 > TECHNICAL ARSENAL
+## 🔗 > TECHNICAL TOOLS
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+TELEMETRY:+CORE+LANGUAGES+%26+FRAMEWORKS" alt="Telemetry" />
 
@@ -71,11 +71,11 @@
 ## 📊 > ACTIVITY GRID
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-Git-1216&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Atharv's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-Git-1216&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aashuutosh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Atharv's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashuutosh&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Git-1216&layout=compact&theme=radical&hide_border=true" width="350" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashuutosh&layout=compact&theme=radical&hide_border=true" width="350" alt="Top Languages" />
 </p>
 
 <br>v>
