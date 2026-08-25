@@ -37,7 +37,7 @@
 
 ## 🔗 > TECHNICAL TOOLS
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+TELEMETRY:+CORE+LANGUAGES+%26+FRAMEWORKS" alt="Telemetry" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+MAIN+LANGUAGES+%26+FRAMEWORKS" alt="Telemetry" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
