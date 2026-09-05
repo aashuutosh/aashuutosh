@@ -35,7 +35,7 @@
 
 <br>
 
-## 🔗 > TECHNICAL TOOLS
+## 🛠️ TECHNICAL TOOLS
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76CA1&width=435&lines=Languages+and+Frameworks)](https://git.io/typing-svg) alt="Telemetry" />
 
@@ -81,7 +81,7 @@
 
 <br>
 
-## 📊 > ACTIVITY GRID
+## 📈  ACTIVITY GRID
 
 <p align="left">
   
