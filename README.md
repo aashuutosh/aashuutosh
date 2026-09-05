@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+DBMS,+BACKEND+%26+TECH" alt="Telemetry" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76CA1&width=435&lines=DBMS%2C+Backend+and+Tech)](https://git.io/typing-svg)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -57,7 +57,8 @@
 </p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+AI+%26+LLMs" alt="Telemetry" />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76CA1&width=435&lines=AI+and+LLMs)](https://git.io/typing-svg) />
 
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
@@ -65,7 +66,7 @@
   <img src="https://img.shields.io/badge/Google_AI_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+Cybersecurity, DevOps & OS" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76CA1&width=435&lines=Cybersecurity%2C+DevOps+%26+OS)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://kali.org" target="_blank"><img src="https://shields.io" alt="Kali Linux" /></a>
   <a href="https://ubuntu.com" target="_blank"><img src="https://shields.io" alt="Ubuntu" /></a>
