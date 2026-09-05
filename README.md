@@ -65,16 +65,27 @@
   <img src="https://img.shields.io/badge/Google_AI_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
+> CYBERSECURITY, DEVOPS & OS
+
+[![Kali Linux](https://shields.io)](https://kali.org)
+[![Ubuntu](https://shields.io)](https://ubuntu.com)
+[![Docker](https://shields.io)](https://docker.com)
+[![Nmap](https://shields.io)](https://nmap.org)
+[![Wireshark](https://shields.io)](https://wireshark.org)
+[![Metasploit](https://shields.io)](https://metasploit.com)
+[![Burp Suite](https://shields.io)](https://portswigger.net)
+
+
 <br>
 
 ## 📊 > ACTIVITY GRID
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashuutosh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Ashutosh's GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashuutosh&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashuutosh&layout=compact&theme=radical&hide_border=true" width="350" alt="Top Languages" />
+  <
 </p>
 
 <br>
