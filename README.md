@@ -37,7 +37,7 @@
 
 ## 🛠️ TECHNICAL TOOLS
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76CA1&width=435&lines=Languages+and+Frameworks)](https://git.io/typing-svg) alt="Telemetry" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76CA1&width=435&lines=Languages+and+Frameworks)](https://git.io/typing-svg) 
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
