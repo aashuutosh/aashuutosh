@@ -65,15 +65,17 @@
   <img src="https://img.shields.io/badge/Google_AI_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-> CYBERSECURITY, DEVOPS & OS
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+Cybersecurity, DevOps & OS" />
+<p align="left">
+  <a href="https://kali.org" target="_blank"><img src="https://shields.io" alt="Kali Linux" /></a>
+  <a href="https://ubuntu.com" target="_blank"><img src="https://shields.io" alt="Ubuntu" /></a>
+  <a href="https://docker.com" target="_blank"><img src="https://shields.io" alt="Docker" /></a>
+  <a href="https://nmap.org" target="_blank"><img src="https://shields.io" alt="Nmap" /></a>
+  <a href="https://wireshark.org" target="_blank"><img src="https://shields.io" alt="Wireshark" /></a>
+  <a href="https://metasploit.com" target="_blank"><img src="https://shields.io" alt="Metasploit" /></a>
+  <a href="https://portswigger.net" target="_blank"><img src="https://shields.io" alt="Burp Suite" /></a>
+</p>
 
-[![Kali Linux](https://shields.io)](https://kali.org)
-[![Ubuntu](https://shields.io)](https://ubuntu.com)
-[![Docker](https://shields.io)](https://docker.com)
-[![Nmap](https://shields.io)](https://nmap.org)
-[![Wireshark](https://shields.io)](https://wireshark.org)
-[![Metasploit](https://shields.io)](https://metasploit.com)
-[![Burp Suite](https://shields.io)](https://portswigger.net)
 
 
 <br>
